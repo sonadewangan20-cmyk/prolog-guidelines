@@ -40,8 +40,6 @@ These practicals demonstrate fundamental concepts of logic programming using PRO
 
 ## 👨‍💻 Author
 
-**Rudra Dewangan**
+**Ruu ⭐️
 
----
 
-⭐ **College Practical Submission — PROLOG**
