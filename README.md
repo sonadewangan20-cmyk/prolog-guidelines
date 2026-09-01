@@ -40,6 +40,6 @@ These practicals demonstrate fundamental concepts of logic programming using PRO
 
 ## 👨‍💻 Author
 
-**Ruu ⭐️
+- Ruu ⭐️
 
 
